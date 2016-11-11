@@ -7,13 +7,11 @@
 *.arff
 .idea/
 .classpath
-.project
 *.orig
 # Deployment directories
 target/
 log/
 .settings/
-data/
 # OS generated files
 .DS_Store?
 .DS_Store
