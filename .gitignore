@@ -1,0 +1,30 @@
+# IntelliJ IDEA project files
+*.iml
+*.ipr
+*.iws
+*.csv
+*.xlsx
+*.arff
+.idea/
+.classpath
+.project
+*.orig
+# Deployment directories
+target/
+log/
+.settings/
+data/
+# OS generated files
+.DS_Store?
+.DS_Store
+ehthumbs.db
+Icon?
+Thumbs.db
+*.log
+*~
+
+# Compiled source
+*.class
+
+# Cobertura generated files
+cobertura.ser
